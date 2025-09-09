@@ -1,4 +1,9 @@
-# community-resources
+# community-resources### Security & Best Practices
+- [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) – widely used audited contracts for EVM development. Use these to avoid common vulnerabilities like reentrancy or overflow.
+- [Ethernaut](https://ethernaut.openzeppelin.com/) – interactive game for learning smart contract security. Hands-on way to understand attacks and defenses.
+- [Solidity Security Patterns](https://github.com/ConsenSys/smart-contract-best-practices) – practical patterns for writing secure Solidity contracts.
+- [Consensys Best Practices](https://consensys.github.io/smart-contract-best-practices/) – official guide for secure smart contract development.
+
 Community suggested resources for development on Monad.
 
 ### End-to-End Web3 Resources
